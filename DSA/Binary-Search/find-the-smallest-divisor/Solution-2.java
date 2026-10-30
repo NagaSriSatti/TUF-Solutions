@@ -2,7 +2,7 @@ class Solution {
     public int helper(int[] nums, int divisor,int limit){
         int ans=0;
         for(int i=0;i<nums.length;i++){
-            double val=Math.ceil((nums[i] + divisor - 1) / divisor);
+            double val=Math.ceil((double)nums[i] / divisor);
             ans+=(int)val;
         }
         return ans;
