@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 0 | 9 | 1 | `2026-10-30` |
+| **11** | 0 | 9 | 2 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,8 +24,9 @@
 | 0006 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [Solution-2](./DSA/Binary-Search/find-the-smallest-divisor/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
 | 0007 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
 | 0008 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [Solution-2](./DSA/Binary-Search/koko-eating-bananas/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
-| 0009 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0010 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [Solution-2](./DSA/Binary-Search/single-element-in-sorted-array/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0009 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [Solution-2](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
+| 0010 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0011 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [Solution-2](./DSA/Binary-Search/single-element-in-sorted-array/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
 
 ---
 
