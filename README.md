@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-30` |
+| **2** | 0 | 2 | 0 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0001 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [Solution-2](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0002 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
 
 ---
 
