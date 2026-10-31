@@ -6,27 +6,28 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **11** | 0 | 9 | 2 | `2026-10-30` |
+| **12** | 0 | 9 | 3 | `2026-10-31` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (11)
+### DSA (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Count Occurrences in a Sorted Array](./DSA/Binary-Search/count-occurrences-in-a-sorted-array) | [Solution-2](./DSA/Binary-Search/count-occurrences-in-a-sorted-array/Solution-2.java) [JAVA](./DSA/Binary-Search/count-occurrences-in-a-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0002 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [Solution-2](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/Solution-2.java) [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0003 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [Solution-2](./DSA/Binary-Search/find-nth-root-of-a-number/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0004 | [Find out how many times the array is rotated](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated) | [Solution-2](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/Solution-2.java) [JAVA](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0005 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [Solution-2](./DSA/Binary-Search/find-square-root-of-a-number/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0006 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [Solution-2](./DSA/Binary-Search/find-the-smallest-divisor/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0007 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0008 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [Solution-2](./DSA/Binary-Search/koko-eating-bananas/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
-| 0009 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [Solution-2](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
-| 0010 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
-| 0011 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [Solution-2](./DSA/Binary-Search/single-element-in-sorted-array/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0001 | [Capacity to Ship Packages Within D Days](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days) | [Solution-2](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-31` |
+| 0002 | [Count Occurrences in a Sorted Array](./DSA/Binary-Search/count-occurrences-in-a-sorted-array) | [Solution-2](./DSA/Binary-Search/count-occurrences-in-a-sorted-array/Solution-2.java) [JAVA](./DSA/Binary-Search/count-occurrences-in-a-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0003 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [Solution-2](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/Solution-2.java) [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0004 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [Solution-2](./DSA/Binary-Search/find-nth-root-of-a-number/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0005 | [Find out how many times the array is rotated](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated) | [Solution-2](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/Solution-2.java) [JAVA](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0006 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [Solution-2](./DSA/Binary-Search/find-square-root-of-a-number/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0007 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [Solution-2](./DSA/Binary-Search/find-the-smallest-divisor/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0008 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0009 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [Solution-2](./DSA/Binary-Search/koko-eating-bananas/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
+| 0010 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [Solution-2](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/Solution-2.java) | 🔴 Hard | `Binary-Search` | `2026-10-30` |
+| 0011 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Binary-Search/search-in-rotated-sorted-array-2/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
+| 0012 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [Solution-2](./DSA/Binary-Search/single-element-in-sorted-array/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-30` |
 
 ---
 
